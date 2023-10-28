@@ -1,0 +1,30 @@
+.button {
+  height: 40px;
+  border-color: #52C41A;
+  color: #52C41A;
+  margin: 0 20px 0 0;
+}
+
+.button:hover {
+  color: #52C41A;
+  border-color: #52C41A;
+}
+
+.button:focus {
+  color: #52C41A;
+  border-color: #52C41A;
+}
+
+/* .ant-modal-content {
+  max-width: 284px;
+  max-height: 600px;
+}
+
+.ant-modal-title {
+  margin: 0 auto;
+}
+
+.ant-form-item .ant-row {
+  display: none;
+  flex-wrap: nowrap;
+} */
